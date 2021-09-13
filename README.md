@@ -15,11 +15,28 @@ Search "Covid-19 Informer" in Telegram. You will find robot.<br>
 
 
 ### Starting chat
-Click start or text "/start" to start Mooda.<br>
-Now you can have a little talk with her.<br>
+Click start or text "/start" to start Fan.<br>
+Now you can have a little talk with him.<br>
 
-### Search a work
+### Search the covid data all over the world
 Typing the title of a work to get information about it.<br>
 It can send you back the lastest infomration about the covid, including the global in a whole
 or just a specific country.<br>
-![](https://github.com/littlecobber/Covid19-Chatbot/tree/main/demos/function 1.mp4)<br>
+#### watch the function video in demo document: function1.mp4<br>
+
+### Search the confirmed data and draw a illustration
+Typing the title of a work to get information about it.
+It can give you the specific country's confirmed number data within the latest 6 months.
+#### watch the function video in demo document: function2.mp4<br>
+
+### Search the latest news of vaccine news
+you can just type anything like: tell me the vaccine news or do you have any vaccine news<br>
+The Covid-19 Informer would show you 10 news for you to choose, from number 1~10.
+### watch the function video in demo document: function3.mp4<br>
+
+### Full function illustration
+3 functions are demonstrated at the same time
+### watch the function video in demo document: all.mp4<br>
+
+
+
