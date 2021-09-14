@@ -15,7 +15,7 @@ Search "Covid-19 Informer" in Telegram. You will find robot.<br>
 
 
 ### 1.Starting chat
-Click start or text "/start" to start Fan.<br>
+Click start or text `/start` to start Fan.<br>
 Now you can have a little talk with him.<br>
 
 ### 2.Search the covid data all over the world
