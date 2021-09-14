@@ -22,21 +22,21 @@ Now you can have a little talk with him.<br>
 Typing the title of a work to get information about it.<br>
 It can send you back the lastest infomration about the covid, including the global in a whole
 or just a specific country.<br>
-#### watch the function video in demo document: function1.mp4<br>
+#### watch the function video in demo document: [function1.mp4]()<br>
 
 ### 3.Search the confirmed data and draw a illustration
 Typing the title of a work to get information about it.
 It can give you the specific country's confirmed number data within the latest 6 months.
-#### watch the function video in demo document: function2.mp4<br>
+#### [watch the function video in demo document: function2.mp4]<br>
 
 ### 4.Search the latest news of vaccine news
 you can just type anything like: tell me the vaccine news or do you have any vaccine news<br>
 The Covid-19 Informer would show you 10 news for you to choose, from number 1~10.
-#### watch the function video in demo document: function3.mp4<br>
+#### [watch the function video in demo document: function3.mp4]<br>
 
 ### 5.Full function illustration
 3 functions are demonstrated at the same time
-#### watch the function video in demo document: all.mp4<br>
+#### [watch the function video in demo document: all.mp4]<br>
 
 
 
