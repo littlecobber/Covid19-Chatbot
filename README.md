@@ -35,6 +35,7 @@ It can give you the specific country's confirmed number data within the latest 6
 you can just type anything like: tell me the vaccine news or do you have any vaccine news<br>
 The Covid-19 Informer would show you 10 news for you to choose, from number 1~10.
 #### watch the function video in demo document: [function3.mp4](https://github.com/littlecobber/Covid19-Chatbot/tree/main/demos)<br>
+![](https://github.com/littlecobber/Covid19-Chatbot/blob/main/gif/function3.gif)
 
 ### 5.Full function illustration
 3 functions are demonstrated at the same time
