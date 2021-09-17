@@ -29,7 +29,7 @@ or just a specific country.<br>
 Typing the title of a work to get information about it.
 It can give you the specific country's confirmed number data within the latest 6 months.
 #### watch the function video in demo document: [function2.mp4](https://github.com/littlecobber/Covid19-Chatbot/tree/main/demos)<br>
-
+![](https://github.com/littlecobber/Covid19-Chatbot/blob/main/gif/function2.gif)
 
 ### 4.Search the latest news of vaccine news
 you can just type anything like: tell me the vaccine news or do you have any vaccine news<br>
