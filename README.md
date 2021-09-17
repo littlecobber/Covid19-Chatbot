@@ -23,6 +23,7 @@ Typing the title of a work to get information about it.<br>
 It can send you back the lastest infomration about the covid, including the global in a whole
 or just a specific country.<br>
 #### watch the function video in demo document: [function1.mp4](https://github.com/littlecobber/Covid19-Chatbot/tree/main/demos)<br>
+![](https://github.com/littlecobber/Covid19-Chatbot/tree/main/demos/function1.gif)
 
 ### 3.Search the confirmed data and draw a illustration
 Typing the title of a work to get information about it.
